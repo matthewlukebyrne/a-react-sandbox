@@ -1,10 +1,9 @@
 # a-react-sandbox
 setup, tooling, JSX, Hooks, useState, useEffect, devTools and a lot more
 
-# https://frontendmasters.com/courses/complete-react-v5/
+https://frontendmasters.com/courses/complete-react-v5/
 
-
-1. createElementArguments (Pure React)
+1. createElementArguments (Pure React with a CDN)
 2. Reuseable Components + Passing in Props
 3. Destructing Props
 4. npm init, tooling, eslint, babel, prettier, parcel
